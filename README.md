@@ -2,7 +2,7 @@
 
 Um site/aplicativo que busca filmes no themoviedatabase.org, baseado no IMDB.
 
-<img src="https://github.com/devsakae/imdbclone/blob/main/public/mockup.png" alt="Imagem do sistema funcionando" />
+<img src="https://github.com/devsakae/dsmd/blob/main/public/mockup.png" alt="Imagem do sistema funcionando" />
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://portfolio.sakae.social)
